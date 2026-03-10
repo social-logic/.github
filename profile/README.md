@@ -1,12 +1,16 @@
-## Hi there 👋
+# Social Logic
+We are a team founded in March 2026, striving to utilize Algorithmic Game Theory to build tools that ensure equitable resource distribution.
 
-<!--
+## Team Member
+Joshua Choi, Founder & Lead Developer
+> [My Website](https://joshuasyss.github.io/)
 
-**Here are some ideas to get you started:**
+## Projects Created
+[Fair4All](https://fair4all.netlify.app/)
+> How to allocate goods fairly and efficiently to people in need is a huge and important problem.
+> In Fair4All, we create a website with a simple interface to calculate how goods should be allocated.
+> By using the Market Equilibrium Algorithm, we can ensure both fairness and efficiency in polynomial time.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Goals
+April
+> Create 3 impactful projects on resource distributions for those in needs
