@@ -10,6 +10,7 @@ Joshua CHOI Kui Wang, Founder & Lead Developer
 > How to allocate goods fairly and efficiently to people in need is a huge and important problem.
 > In Fair4All, we create a website with a simple interface to calculate how goods should be allocated.
 > By using the Market Equilibrium Algorithm, we can ensure both fairness and efficiency in polynomial time.
+
 [FairInScheduling](https://fairinscheduling.netlify.app/)
 > A lightweight web tool that converts complex real-world logistics (people, goods, dates) into clean mathematical matrices for algorithm processing.
 > Uses temporal fairness to replace chaotic "first-come, first-served" models with logic that ensures equitable distribution across multiple shipment days.
