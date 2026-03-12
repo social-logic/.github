@@ -1,7 +1,7 @@
 <img src="./banner.png">
 
 # Social Logic
-We are a team founded in March 2026, striving to utilize Algorithmic Game Theory to build tools that ensure equitable resource distribution.
+We are a team founded in March 2026, based in Hong Kong, and we strive to apply Algorithmic Game Theory to build tools that ensure equitable resource distribution.
 
 ## Team Member
 Joshua CHOI Kui Wang, Founder & Lead Developer
