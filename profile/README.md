@@ -1,3 +1,5 @@
+<img src="./banner.png">
+
 # Social Logic
 We are a team founded in March 2026, striving to utilize Algorithmic Game Theory to build tools that ensure equitable resource distribution.
 
