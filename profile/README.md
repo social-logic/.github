@@ -1,7 +1,7 @@
 <img src="./banner.png">
 
 # Social Logic
-We are a team founded in March 2026, based in Hong Kong, and we strive to apply Algorithmic Game Theory to build tools that ensure equitable resource distribution.
+We are a team founded in March 2026 and is based in Hong Kong. Social Logic is an independent computational research initiative leveraging Algorithmic Game Theory and Mechanism Design to analyze and optimize Hong Kong’s socio-economic frameworks.
 
 ## Team Member
 Joshua CHOI Kui Wang, Founder & Lead Developer
