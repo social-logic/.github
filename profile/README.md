@@ -19,7 +19,3 @@ Joshua CHOI Kui Wang, Founder & Lead Developer
 > A lightweight web tool that converts complex real-world logistics (people, goods, dates) into clean mathematical matrices for algorithm processing.
 > Uses temporal fairness to replace chaotic "first-come, first-served" models with logic that ensures equitable distribution across multiple shipment days.
 > Runs entirely in the browser, making it free and incredibly easy for local nonprofits to deploy without needing backend servers or IT budgets.
-
-## Goals
-April
-> Create 3 impactful projects on resource distributions for those in need
